@@ -15,8 +15,7 @@ import: https://raw.githubusercontent.com/liascript/CodeRunner/master/README.md
 
 -->
 
-# C
-
+# Java
 ``` java
 import java.io.*;
 class Demo {
